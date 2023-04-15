@@ -13,3 +13,7 @@
 .link-primary{
     color: var(--primary) !important;
 }
+
+.rounded{
+    border-radius: 50px !important;
+}
